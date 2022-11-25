@@ -1,0 +1,43 @@
+{
+ "songs" : [
+ {
+"id": "1",
+"title": "Yesterday",
+"artist": {
+"id": "4",
+"name": "Beatles"
+},
+"album": {
+"id": "5",
+"name": "Yesterday"
+}
+}
+,
+{
+"id": "2",
+"title": "Mojito",
+"artist": {
+"id": "6",
+"name": "Jay"
+},
+"album": {
+"id": "7",
+"name": "the greatest work of arts"
+}
+}
+,
+{
+"id": "3",
+"title": "Go",
+"artist": {
+"id": "8",
+"name": "john"
+},
+"album": {
+"id": "9",
+"name": "nothing to do"
+}
+}
+
+] 
+}
